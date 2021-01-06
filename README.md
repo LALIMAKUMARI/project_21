@@ -1,2 +1,2 @@
-# project_21
-this is my project
+# p5.play-boilerplate
+Boiler plate for p5.play
